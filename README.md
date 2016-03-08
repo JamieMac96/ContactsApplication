@@ -1,5 +1,5 @@
 # ContactsApplication
-year one semester two programming project two. Basic command line application.
+year one semester two programming. Project two. Basic command line application.
 
 Goup dynamics:
 
