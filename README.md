@@ -1,5 +1,19 @@
 # ContactsApplication
-year one semester two programming. Project two. Basic command line application.
+year one semester two programming. Project two. Command line application used to maintain a file of contacts.
+
+Program functions: 
+
+	-Create a contacts list
+	
+	-Add contacts to the list
+	
+	-display contacts
+	
+	-edit contact info
+	
+	-remove contacts
+	
+	-search for contacts
 
 Goup dynamics:
 
@@ -12,5 +26,7 @@ Goup dynamics:
 		William O'Leary
 		
 		Cian Whelan
+		
+Final Grade: 97.5%		
 
 
