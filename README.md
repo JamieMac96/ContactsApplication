@@ -27,6 +27,8 @@ Goup dynamics:
 		
 		Cian Whelan
 		
-Final Grade: 97.5%		
+Method contributions: As listed in comments.		
+		
+Final Grade: 97.5%	
 
 
