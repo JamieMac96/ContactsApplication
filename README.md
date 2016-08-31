@@ -3,41 +3,45 @@ year one semester two programming. Project two. Command line application used to
 
 ##Program functions: 
 
-	-Create a contacts list
+-Create a contacts list
 	
-	-Add contacts to the list
+-Add contacts to the list
 	
-	-display contacts
+-display contacts
 	
-	-edit contact info
+-edit contact info
 	
-	-remove contacts
+-remove contacts
 	
-	-search for contacts
+-search for contacts
 
-##Goup dynamics:
+##Group dynamics:
 
-	group leader: Rory Egan
+group leader: Rory Egan
 
-	Members: 
+Members: 
 
-		Jamie Mac Manus
+Jamie Mac Manus
 
-		William O'Leary
+William O'Leary
 		
-		Cian Whelan
+Cian Whelan
 		
 ##Compilation: 
 
-	Javac ContactsApplication.java
+Javac ContactsApplication.java
 	
 ##Exectution:
 
-	Java ContactsApplication
+Java ContactsApplication
 
 		
-Method contributions: As listed in comments.		
+##Method contributions: 
+
+As listed in comments.		
 		
-Final Grade: 97.5%	
+##Final Grade: 
+
+97.5%	
 
 
