@@ -1,7 +1,7 @@
 # ContactsApplication
 year one semester two programming. Project two. Command line application used to maintain a file of contacts.
 
-Program functions: 
+##Program functions: 
 
 	-Create a contacts list
 	
@@ -15,7 +15,7 @@ Program functions:
 	
 	-search for contacts
 
-Goup dynamics:
+##Goup dynamics:
 
 	group leader: Rory Egan
 
@@ -26,6 +26,15 @@ Goup dynamics:
 		William O'Leary
 		
 		Cian Whelan
+		
+##Compilation: 
+
+	Javac ContactsApplication.java
+	
+##Exectution:
+
+	Java ContactsApplication
+
 		
 Method contributions: As listed in comments.		
 		
