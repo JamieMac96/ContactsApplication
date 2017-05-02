@@ -2,7 +2,7 @@
 year one semester two programming. Project two. Command line application used to maintain a file of contacts.
 
 
-##Program functions: 
+## Program functions: 
 
 -Create a contacts list
 	
@@ -17,7 +17,7 @@ year one semester two programming. Project two. Command line application used to
 -search for contacts
 
 
-##Group dynamics:
+## Group dynamics:
 
 group leader: Rory Egan
 
@@ -30,22 +30,22 @@ William O'Leary
 Cian Whelan
 
 		
-##Compilation: 
+## Compilation: 
 
 Javac ContactsApplication.java
 
 	
-##Exectution:
+## Exectution:
 
 Java ContactsApplication
 
 		
-##Method contributions: 
+## Method contributions: 
 
 As listed in comments.		
 
 		
-##Final Grade: 
+## Final Grade: 
 
 97.5%	
 
