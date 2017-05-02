@@ -32,12 +32,12 @@ Cian Whelan
 		
 ## Compilation: 
 
-Javac ContactsApplication.java
+	Javac ContactsApplication.java
 
 	
 ## Exectution:
 
-Java ContactsApplication
+	Java ContactsApplication
 
 		
 ## Method contributions: 
